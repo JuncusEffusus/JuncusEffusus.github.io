@@ -1,2 +1,2 @@
-# JuncusEffusus.github.io
+# juncuseffusus.github.io
 ☆ self learning record &amp; sharing
